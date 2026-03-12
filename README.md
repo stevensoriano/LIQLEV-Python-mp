@@ -140,6 +140,12 @@ This approach is well-suited for SLURM single-node allocations (`--ntasks=1 --cp
 
 ---
 
+## Contact
+
+Steven Soriano — steven.a.soriano@nasa.gov
+
+---
+
 ## References
 
 [^1]: Bradshaw, R. D., "Evaluation and Application of Data from Low-Gravity Orbital Experiment, Phase I Final Report", General Dynamics, Convair Division, NASA CR-109847 (Report No. GDC-DDB-70-003), 1970.
